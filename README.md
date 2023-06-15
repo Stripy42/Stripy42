@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Stripy42
+- 👋 Hi, I’m Andrew Nathanson @Stripy42
 - 👀 I’m interested in architecture and govenance 
-- 🌱 I’m currently learning PowerShell (forced to in fact)
+- 🌱 I’m currently learning more in PowerShell, Python3, SQL, Bash, VBA (why!)
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ...
 
